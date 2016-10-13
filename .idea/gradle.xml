@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Exercise1" />
+            <option value="$PROJECT_DIR$/Exercise10" />
+            <option value="$PROJECT_DIR$/Exercise11" />
+            <option value="$PROJECT_DIR$/Exercise12" />
+            <option value="$PROJECT_DIR$/Exercise13" />
+            <option value="$PROJECT_DIR$/Exercise14" />
+            <option value="$PROJECT_DIR$/Exercise15" />
+            <option value="$PROJECT_DIR$/Exercise16" />
+            <option value="$PROJECT_DIR$/Exercise17" />
+            <option value="$PROJECT_DIR$/Exercise18" />
+            <option value="$PROJECT_DIR$/Exercise19" />
+            <option value="$PROJECT_DIR$/Exercise2" />
+            <option value="$PROJECT_DIR$/Exercise20" />
+            <option value="$PROJECT_DIR$/Exercise21" />
+            <option value="$PROJECT_DIR$/Exercise22" />
+            <option value="$PROJECT_DIR$/Exercise23" />
+            <option value="$PROJECT_DIR$/Exercise24" />
+            <option value="$PROJECT_DIR$/Exercise25" />
+            <option value="$PROJECT_DIR$/Exercise26" />
+            <option value="$PROJECT_DIR$/Exercise27" />
+            <option value="$PROJECT_DIR$/Exercise28" />
+            <option value="$PROJECT_DIR$/Exercise3" />
+            <option value="$PROJECT_DIR$/Exercise30" />
+            <option value="$PROJECT_DIR$/Exercise4" />
+            <option value="$PROJECT_DIR$/Exercise6" />
+            <option value="$PROJECT_DIR$/Exercise7" />
+            <option value="$PROJECT_DIR$/Exercise8" />
+            <option value="$PROJECT_DIR$/Exercise9" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

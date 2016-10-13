@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="but_name">submit</string>
+    <string name="radioButtonMale_name">male</string>
+    <string name="radioButtonFemale_name">female</string>
+    <string name="checkBoxC_name">C</string>
+    <string name="checkBoxJava_name">Java</string>
+    <string name="checkBoxPython_name">Python</string>
+    <string name="textView_name">text</string>
+    <string name="editText_name">testContent</string>
+</resources>

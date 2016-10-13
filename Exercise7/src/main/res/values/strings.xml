@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise7</string>
+    <string name="button1_name">message</string>
+    <string name="button2_name">login</string>
+    <string name="button3_name">submit</string>
+    <string name="button4_name">cancel</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:text="单词"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_word"
+        android:ems="8"
+        android:layout_marginLeft="25dp"
+        android:layout_alignTop="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:text="含义"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:layout_alignTop="@+id/Meaning"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:ems="8"
+        android:id="@+id/Meaning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="41dp"
+        android:layout_below="@+id/edit_word"
+        android:layout_centerHorizontal="true" />
+
+    <TextView android:text="示例"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:id="@+id/textView3"
+        android:layout_marginTop="47dp"
+        android:layout_below="@+id/Meaning"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:ems="8"
+        android:id="@+id/Sample"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_centerHorizontal="true" />
+</TableLayout>
